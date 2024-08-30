@@ -1,8 +1,7 @@
 # <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> 
     ![](https://komarev.com/ghpvc/?username=purwoceng&color=green)
-</p>
+
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
