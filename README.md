@@ -1,6 +1,7 @@
 # <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> 
+    ![](https://komarev.com/ghpvc/?username=purwoceng&color=green)
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
@@ -24,6 +25,5 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.instagram.com/purwofr_/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+
+
